@@ -23,5 +23,4 @@ Make sure to install the dependencies before running the project
 ```bash
 pip install -r requirements.txt
 
-```bash
 python manage.py runserver
